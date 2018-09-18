@@ -28,10 +28,18 @@ public class Buhgalter {
             ma = b;
             mi = a;
         }
-        n = makeDigit(ma);
-        m = makeDigitMin(mi);
-        if((!fn && fm) || (fn && !fm))System.out.println(n + m);
-        else System.out.println(n - m);
+        if(fn && !fm || !fn && fm){
+            n = makeDigit(ma);
+            m = makeDigit(mi);
+            System.out.println(n + m);
+        }
+        else {
+            n = makeDigit(ma);
+            m = makeDigitMin(mi);
+            n = fn ? -n : n;
+            m = fm ? -m : m;
+            System.out.println(Math.abs(n - m));
+        }
     }
 
     private static boolean max(int[] a, int[] b) {
@@ -51,7 +59,7 @@ public class Buhgalter {
             while (b[pos] == 0) {
                 pos++;
             }
-            ans += Math.pow(10, b.length - 1) * b[pos];
+            ans += (int)Math.pow(10, b.length - 1) * b[pos];
             b[pos] = 0;
             for (int i = 0; i < b.length; i++) {
                 ans += Math.pow(10, b.length - i - 1) * b[i];

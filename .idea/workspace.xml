@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7138c730-0cd9-41bc-9aae-835663fe7cfe" name="Default Changelist" comment="Integer and Sort">
-      <change afterPath="$PROJECT_DIR$/src/Olimp/sort/sort1/Buhgalter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Olimp/sort/sort1/WorkTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Olimp/sort/sort1/Buhgalter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Olimp/sort/sort1/Buhgalter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,25 +23,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="34" />
+          <entry key="class" value="3" />
+          <entry key="java" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="34" />
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7235" />
+          <entry key="java" value="8135" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7235" />
+          <entry key="JAVA" value="8135" />
           <entry key="PLAIN_TEXT" value="23" />
         </counts>
       </usages-collector>
@@ -53,36 +54,29 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/Lexik.java">
+        <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/Buhgalter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="16" column="61" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="16" selection-end-column="61" />
+            <state relative-caret-position="351">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/Wedding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="40" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#max#0;class#Buhgalter#0" />
+                <element signature="method#makeDigit#0;class#Buhgalter#0" />
+                <element signature="method#splitDigits#0;class#Buhgalter#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/Buhgalter.java">
+        <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/WorkTime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+            <state relative-caret-position="-809">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/Olimp/sort/sort1/Lexik.java" />
         <option value="$PROJECT_DIR$/src/Olimp/sort/sort1/Wedding.java" />
         <option value="$PROJECT_DIR$/src/Olimp/sort/sort1/Buhgalter.java" />
+        <option value="$PROJECT_DIR$/src/Olimp/sort/sort1/WorkTime.java" />
       </list>
     </option>
   </component>
@@ -214,7 +209,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537301610662" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537306009071" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -231,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Buhgalter">
+  <component name="RunManager" selected="Application.WorkTime">
     <configuration name="Buhgalter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Olimp.sort.sort1.Buhgalter" />
       <module name="Geekbrains" />
@@ -271,19 +266,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Olimp.sort.sort1.TimeSort" />
-      <module name="Geekbrains" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Olimp.sort.sort1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Wedding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Olimp.sort.sort1.Wedding" />
       <module name="Geekbrains" />
@@ -297,20 +279,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WorkTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Olimp.sort.sort1.WorkTime" />
+      <module name="Geekbrains" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Olimp.sort.sort1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.TimeSort" />
       <item itemvalue="Application.Chose" />
       <item itemvalue="Application.Lexik" />
       <item itemvalue="Application.Wedding" />
       <item itemvalue="Application.Buhgalter" />
+      <item itemvalue="Application.WorkTime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WorkTime" />
         <item itemvalue="Application.Buhgalter" />
         <item itemvalue="Application.Wedding" />
         <item itemvalue="Application.Lexik" />
         <item itemvalue="Application.Chose" />
-        <item itemvalue="Application.TimeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -324,16 +319,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537119781610</updated>
-      <workItem from="1537119787319" duration="28107000" />
+      <workItem from="1537119787319" duration="32694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28107000" />
+    <option name="totallyTimeSpent" value="32694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1680" height="1023" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -351,7 +345,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38327527" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976826" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39953542" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -614,10 +608,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/Buhgalter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        <state relative-caret-position="351">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#max#0;class#Buhgalter#0" />
+            <element signature="method#makeDigit#0;class#Buhgalter#0" />
+            <element signature="method#splitDigits#0;class#Buhgalter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/NumberFormatException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Integer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="198" selection-start-line="198" selection-end-line="198" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/WorkTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-809">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
