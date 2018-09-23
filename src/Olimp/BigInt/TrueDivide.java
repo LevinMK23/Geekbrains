@@ -16,7 +16,7 @@ public class TrueDivide {
             System.out.print(1);
             return;
         }
-        BigInteger hi = new BigInteger("10").pow(1501);
+        BigInteger hi = new BigInteger("10").pow(1400);
         BigInteger lo = BigInteger.ZERO;
         while (hi.add(lo.negate()).compareTo(BigInteger.ZERO) > 0){
             BigInteger mid = lo.add(hi).divide(new BigInteger("2"));
