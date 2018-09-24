@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7138c730-0cd9-41bc-9aae-835663fe7cfe" name="Default Changelist" comment="Integer and Sort">
-      <change afterPath="$PROJECT_DIR$/src/Olimp/Dynamic/pack3/Pow2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Olimp/Dynamic/pack3/HorseStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Olimp/Dynamic/pack3/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Olimp/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Olimp/Task.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,34 +19,38 @@
     <session id="-403487135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="5" />
-          <entry key="java" value="80" />
+          <entry key="class" value="6" />
+          <entry key="java" value="83" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="80" />
+          <entry key="CLASS" value="6" />
+          <entry key="JAVA" value="83" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="21789" />
-          <entry key="txt" value="23" />
+          <entry key="java" value="22950" />
+          <entry key="txt" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21789" />
-          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="JAVA" value="22950" />
+          <entry key="PLAIN_TEXT" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -55,10 +62,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack2/Game2.java">
+        <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack3/HorseStep.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="348">
-              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack3/Zoo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,25 +83,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack2/LIS2.java">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/math/BigInteger.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-233">
-              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="160">
+              <caret line="717" selection-start-line="717" selection-end-line="717" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack3/Pow2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Olimp/Task.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="129">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Olimp/Task.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -110,10 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Olimp/GCD/BigNod.java" />
-        <option value="$PROJECT_DIR$/src/Olimp/GCD/SimpleGCD.java" />
-        <option value="$PROJECT_DIR$/src/Olimp/GCD/SimpleNOK.java" />
-        <option value="$PROJECT_DIR$/src/Olimp/prime/Genetic.java" />
         <option value="$PROJECT_DIR$/src/Olimp/prime/Chebishev.java" />
         <option value="$PROJECT_DIR$/src/Olimp/prime/Multiplies.java" />
         <option value="$PROJECT_DIR$/src/Olimp/prime/AllPrimes.java" />
@@ -161,6 +176,10 @@
         <option value="$PROJECT_DIR$/src/Olimp/Dynamic/pack2/Game2.java" />
         <option value="$PROJECT_DIR$/src/Olimp/Dynamic/pack2/LIS2.java" />
         <option value="$PROJECT_DIR$/src/Olimp/Dynamic/pack3/Pow2.java" />
+        <option value="$PROJECT_DIR$/src/Olimp/Task.java" />
+        <option value="$PROJECT_DIR$/src/Olimp/Task.txt" />
+        <option value="$PROJECT_DIR$/src/Olimp/Dynamic/pack3/HorseStep.java" />
+        <option value="$PROJECT_DIR$/src/Olimp/Dynamic/pack3/Zoo.java" />
       </list>
     </option>
   </component>
@@ -196,8 +215,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -224,16 +241,26 @@
               <item name="Olimp" type="462c0819:PsiDirectoryNode" />
               <item name="Dynamic" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Olimp" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic" type="462c0819:PsiDirectoryNode" />
+              <item name="pack3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537746538418" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537817417315" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -251,20 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pow2">
-    <configuration name="BiggestMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Olimp.Dynamic.pack2.BiggestMatrix" />
-      <module name="Geekbrains" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Olimp.Dynamic.pack2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Zoo">
     <configuration name="Game2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Olimp.Dynamic.pack2.Game2" />
       <module name="Geekbrains" />
@@ -278,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LIS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Olimp.Dynamic.pack2.LIS2" />
+    <configuration name="HorseStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Olimp.Dynamic.pack3.HorseStep" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Olimp.Dynamic.pack2.*" />
+          <option name="PATTERN" value="Olimp.Dynamic.pack3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,8 +305,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestIncSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Olimp.Dynamic.pack2.LongestIncSub" />
+    <configuration name="LIS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Olimp.Dynamic.pack2.LIS2" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
@@ -317,20 +331,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Olimp.Dynamic.pack3.Zoo" />
+      <module name="Geekbrains" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Olimp.Dynamic.pack3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.LongestIncSub" />
-      <item itemvalue="Application.BiggestMatrix" />
       <item itemvalue="Application.Game2" />
       <item itemvalue="Application.LIS2" />
       <item itemvalue="Application.Pow2" />
+      <item itemvalue="Application.HorseStep" />
+      <item itemvalue="Application.Zoo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zoo" />
+        <item itemvalue="Application.HorseStep" />
         <item itemvalue="Application.Pow2" />
         <item itemvalue="Application.LIS2" />
         <item itemvalue="Application.Game2" />
-        <item itemvalue="Application.BiggestMatrix" />
-        <item itemvalue="Application.LongestIncSub" />
       </list>
     </recent_temporary>
   </component>
@@ -346,12 +373,13 @@
       <updated>1537119781610</updated>
       <workItem from="1537119787319" duration="39051000" />
       <workItem from="1537392899128" duration="20324000" />
-      <workItem from="1537607935694" duration="38592000" />
+      <workItem from="1537607935694" duration="38769000" />
+      <workItem from="1537810734653" duration="5450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97967000" />
+    <option name="totallyTimeSpent" value="103594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,9 +392,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1680" height="1023" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15789473" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15973072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -376,16 +403,16 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3830035" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993015" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3821138" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31199068" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3124274" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3282887" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32752612" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -418,45 +445,16 @@
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Olimp/Dynamic/pack3/Zoo.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/FibN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/FibCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/Fib3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/GCD/SimpleGCD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/Friendly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="58" column="46" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/Beauty.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -611,9 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -628,9 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -818,16 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack2/Game2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack2/LongestIncSub.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -845,9 +827,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack2/Game2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack2/LIS2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-233">
+        <state relative-caret-position="330">
           <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -857,8 +849,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack3/Pow2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        <state relative-caret-position="195">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Olimp/Task.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Olimp/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack3/HorseStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/math/BigInteger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="717" selection-start-line="717" selection-end-line="717" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Olimp/Dynamic/pack3/Zoo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
