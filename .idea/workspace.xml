@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7138c730-0cd9-41bc-9aae-835663fe7cfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Olimp/Hack/HackACMP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Olimp/Hack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Olimp/Hack/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,38 +24,78 @@
     <session id="-403487135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.46" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="6" />
-          <entry key="java" value="58" />
+          <entry key="0" value="8" />
+          <entry key="1" value="7" />
+          <entry key="10" value="3" />
+          <entry key="11" value="2" />
+          <entry key="12" value="1" />
+          <entry key="13" value="1" />
+          <entry key="14" value="2" />
+          <entry key="15" value="1" />
+          <entry key="16" value="1" />
+          <entry key="17" value="2" />
+          <entry key="18" value="2" />
+          <entry key="19" value="1" />
+          <entry key="2" value="6" />
+          <entry key="20" value="1" />
+          <entry key="21" value="2" />
+          <entry key="22" value="1" />
+          <entry key="23" value="1" />
+          <entry key="24" value="1" />
+          <entry key="25" value="1" />
+          <entry key="26" value="2" />
+          <entry key="27" value="1" />
+          <entry key="28" value="1" />
+          <entry key="29" value="1" />
+          <entry key="3" value="5" />
+          <entry key="30" value="1" />
+          <entry key="31" value="2" />
+          <entry key="32" value="2" />
+          <entry key="4" value="5" />
+          <entry key="41" value="1" />
+          <entry key="46" value="1" />
+          <entry key="48" value="3" />
+          <entry key="49" value="2" />
+          <entry key="5" value="5" />
+          <entry key="6" value="5" />
+          <entry key="7" value="4" />
+          <entry key="8" value="5" />
+          <entry key="9" value="3" />
+          <entry key="class" value="10" />
+          <entry key="clue" value="48" />
+          <entry key="java" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="58" />
+          <entry key="CLASS" value="10" />
+          <entry key="JAVA" value="74" />
+          <entry key="PLAIN_TEXT" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="16909" />
+          <entry key="java" value="19221" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16909" />
+          <entry key="JAVA" value="19221" />
           <entry key="PLAIN_TEXT" value="23" />
         </counts>
       </usages-collector>
@@ -60,28 +105,31 @@
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Geekbrains" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Olimp/Hack/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+            <state relative-caret-position="315">
+              <caret line="54" column="52" lean-forward="true" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="class#Line#0;class#Task4#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/sun/net/www/protocol/ftp/FtpURLConnection.class">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+            <state relative-caret-position="283">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
-                <element signature="e#1742#1743#0" expanded="true" />
-                <element signature="e#1781#1782#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,6 +205,12 @@
         <option value="$PROJECT_DIR$/src/Olimp/NTI/Mapa.java" />
         <option value="$PROJECT_DIR$/src/Olimp/NTI/WH.java" />
         <option value="$PROJECT_DIR$/src/Olimp/Hack/Main.java" />
+        <option value="$PROJECT_DIR$/src/Olimp/Hack/HackACMP.java" />
+        <option value="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task2.java" />
+        <option value="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task3.java" />
+        <option value="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task5.java" />
+        <option value="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java" />
+        <option value="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java" />
       </list>
     </option>
   </component>
@@ -178,9 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,12 +248,37 @@
               <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
               <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Olimp" type="462c0819:PsiDirectoryNode" />
+              <item name="InfoTechQuest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="InfoTechQuest" type="462c0819:PsiDirectoryNode" />
+              <item name="Geometry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="InfoTechQuest" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="InfoTechQuest" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,7 +288,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540502821544" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540596973261" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -232,13 +308,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="LittleBig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Olimp.NTI.LittleBig" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InfoTechQuest.Geometry.Task2" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Olimp.NTI.*" />
+          <option name="PATTERN" value="InfoTechQuest.Geometry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +322,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Olimp.Hack.Main" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InfoTechQuest.Geometry.Task3" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Olimp.Hack.*" />
+          <option name="PATTERN" value="InfoTechQuest.Geometry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,12 +335,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Olimp.NTI.Main" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InfoTechQuest.Geometry.Task4" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Olimp.NTI.*" />
+          <option name="PATTERN" value="InfoTechQuest.Geometry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mapa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Olimp.NTI.Mapa" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InfoTechQuest.Geometry.Task5" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Olimp.NTI.*" />
+          <option name="PATTERN" value="InfoTechQuest.Geometry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +361,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Olimp.NTI.WH" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InfoTechQuest.Geometry.Test" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Olimp.NTI.*" />
+          <option name="PATTERN" value="InfoTechQuest.Geometry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,19 +375,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.LittleBig" />
-      <item itemvalue="Application.Mapa" />
-      <item itemvalue="Application.WH" />
-      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Task2" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Task3" />
+      <item itemvalue="Application.Task5" />
+      <item itemvalue="Application.Task4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.WH" />
-        <item itemvalue="Application.Mapa" />
-        <item itemvalue="Application.LittleBig" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +408,8 @@
       <workItem from="1539908099725" duration="23000" />
       <workItem from="1539937791694" duration="13000" />
       <workItem from="1540324648776" duration="15550000" />
-      <workItem from="1540492444306" duration="9501000" />
+      <workItem from="1540492444306" duration="12061000" />
+      <workItem from="1540576047588" duration="11813000" />
     </task>
     <task id="LOCAL-00001" summary="Integer and Sort">
       <created>1540327433524</created>
@@ -348,11 +425,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540494930519</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Integer and Sort">
+      <created>1540503256007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540503256007</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91573000" />
+    <option name="totallyTimeSpent" value="105946000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,18 +451,18 @@
     <frame x="0" y="27" width="1680" height="1023" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17074664" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6079078" visible="true" weight="0.14687882" />
+      <window_info id="Structure" order="1" sideWeight="0.39209226" side_tool="true" weight="0.14687882" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Favorites" order="7" sideWeight="0.5017182" side_tool="true" weight="0.14687882" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21486643" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.398374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2950058" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.398374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
@@ -424,386 +508,317 @@
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
+          <line>21</line>
+          <properties class="InfoTechQuest.Geometry.Test.Line" method="check">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/prime/Genetic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/4">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/prime/Goldbah.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/5">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/prime/Multiplies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/6">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/prime/PrimeWeights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/7">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/Smith.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-669">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/8">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/FibN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/9">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/FibCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/Fib3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/GCD/SimpleGCD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/Friendly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="58" column="46" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/Beauty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/prime/AllPrimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/prime/Chebishev.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/TimeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/Chose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/Lexik.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="16" column="61" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="16" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/Wedding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="40" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/NumberFormatException.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Integer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="198" selection-start-line="198" selection-end-line="198" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/WorkTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/Buhgalter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="44" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/Mag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/NaMasse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/Bubble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/SortChose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/DifficultSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="44" selection-start-line="7" selection-start-column="3" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/AriProg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/ThreadSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/DiffSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/GoldABBA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/math/BigDecimal.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="726" selection-start-line="726" selection-end-line="726" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/Difference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/Pow2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/Mult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/TrueDivide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" selection-start-line="2" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/StructSort/School.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/TwoStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/StructSort/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="53" selection-end-line="29" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/StructSort/Class.java">
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/0.clue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="13" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/Task.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/0">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/StructSort/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="381">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/Bin.java">
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/StructSort/Pupil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Scanner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="784" column="27" lean-forward="true" selection-start-line="784" selection-start-column="27" selection-end-line="784" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/NTI/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+        <state relative-caret-position="72">
+          <caret line="13" column="91" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="91" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/NTI/LittleBig.java">
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task5/49.clue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task5/49">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/NTI/Mapa.java">
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task5/48">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task5/48.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task5/17">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task5/18">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task5/18.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task5/21">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task5/21.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task5/26">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task5/26.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/7">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/0">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/0.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/1.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/2.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/3.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/4">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/4.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/5">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/5.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/6">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/6.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/7.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/8">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/8.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/9.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/10.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/11.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/12.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/14">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/14.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/15.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/16.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/19.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state relative-caret-position="315">
+          <caret line="54" column="52" lean-forward="true" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="class#Line#0;class#Task4#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/NTI/WH.java">
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/sun/net/www/protocol/ftp/FtpURLConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
-          <folding>
-            <element signature="e#1742#1743#0" expanded="true" />
-            <element signature="e#1781#1782#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/Hack/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="283">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
