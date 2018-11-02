@@ -1,67 +1,87 @@
 package Olimp.NTI;
-
-import java.util.Arrays;
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.HashMap;
+import java.util.LinkedList;
 
 public class Main {
 
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
-        int [] a = new int[n],
-                b = new int[n],
-                c = new int[n],
-                as = new int[101],
-                bs = new int[101],
-                cs = new int[101];
+    static class Node{
+        String name;
+        int num;
 
-        double sa = 0, sb = 0, sc = 0,
-                ma, mb, mc;
+        public Node(String name, int num) {
+            this.name = name;
+            this.num = num;
+        }
+    }
+    public static void main(String[] args) throws IOException {
+        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+        HashMap<String, Integer> map = new HashMap<>();
+        LinkedList<Node> queue = new LinkedList<>();
+        int n = Integer.parseInt(in.readLine());
+        boolean flag = false;
+        int cnt = 0, p = 0;
+        String s;
         for (int i = 0; i < n; i++) {
-            a[i] = in.nextInt();
-            b[i] = in.nextInt();
-            c[i] = in.nextInt();
-            as[a[i]]++; bs[b[i]]++; cs[c[i]]++;
-            sa += a[i]; sb += b[i]; sc += c[i];
-        }
-        sa /= n;
-        sb /= n;
-        sc /= n;
-        int p = 0;
-        for (int i = 0; i <= 100; i++) {
-            while(as[i] > 0){
-                a[p++] = i;
-                as[i]--;
+            if(flag){
+                if (!queue.isEmpty()){
+                    System.out.println(queue.peekFirst().name);
+                    queue.pollFirst();
+                    flag = false;
+                }
+            }
+            s = in.readLine();
+            if(s.equals("next")){
+                if (!queue.isEmpty()){
+                    System.out.println(queue.peekFirst().name);
+                    queue.pollFirst();
+                    flag = false;
+                }
+                else flag = true;
+            }
+            else{
+                if(map.containsKey(s)){
+                    System.out.println("2nd " + s);
+                    if (flag){
+                        System.out.println(s);
+                        map.remove(s);
+                        flag = false;
+                    }
+                    else {
+                        if (queue.isEmpty()){
+                            queue.addLast(new Node(s, map.get(s)));
+                            map.remove(s);
+                        }
+                        else {
+                            if (map.get(s) < queue.peekFirst().num){
+                                queue.addFirst(new Node(s, map.get(s)));
+                                map.remove(s);
+                            }
+                            else {
+                                if (queue.peekLast().num < map.get(s)){
+                                    queue.addLast(new Node(s, map.get(s)));
+                                    map.remove(s);
+                                }
+                                else {
+                                    for (int j = 0; j < queue.size(); j++) {
+                                        if (queue.get(j).num > map.get(s)) {
+                                            queue.add(j, new Node(s, map.get(s)));
+                                            map.remove(s);
+                                            break;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                else{
+                    map.put(s, cnt++);
+                    System.out.println("1st " + s);
+                }
             }
         }
-        p = 0;
-        for (int i = 0; i <= 100; i++) {
-            while(bs[i] > 0){
-                b[p++] = i;
-                bs[i]--;
-            }
-        }
-        p = 0;
-        for (int i = 0; i <= 100; i++) {
-            while(cs[i] > 0){
-                c[p++] = i;
-                cs[i]--;
-            }
-        }
-        ma = n % 2 == 0 ? (a[n/2] + a[n/2 - 1]) / 2. : a[n/2];
-        mb = n % 2 == 0 ? (b[n/2] + b[n/2 - 1]) / 2. : b[n/2];
-        mc = n % 2 == 0 ? (c[n/2] + c[n/2 - 1]) / 2. : c[n/2];
-        System.out.println(sa + " " + sb + " " + sc);
-        System.out.println(ma + " " + mb + " " + mc);
-        int erase = n / 10;
-        sa = 0; sb = 0; sc = 0;
-        for (int i = erase; i < n - erase; i++) {
-            sa += a[i]; sb += b[i]; sc += c[i];
-        }
-        sa /= (n - 2 * erase);
-        sb /= (n - 2 * erase);
-        sc /= (n - 2 * erase);
-        System.out.println(sa + " " + sb + " " + sc);
-        System.out.println(ma + " " + mb + " " + mc);
     }
 }

@@ -16,9 +16,9 @@ public class Task4 {
             this.y1 = y1;
             this.x2 = x2;
             this.y2 = y2;
-            a = y2 - y1;
-            b = x1 - x2;
-            c = (x2 - x1) * y1 - (y2 - y1) * x1;
+            a = y1 - y2;
+            b = x2 - x1;
+            c = (y2 - y1) * x1 + (x1 - x2) * y1;
         }
 
         int check(long x, long y){
@@ -45,16 +45,17 @@ public class Task4 {
                 Line lines = new Line(in.nextLong(), in.nextLong(),
                         in.nextLong(), in.nextLong());
                 long sx = in.nextLong(), sy = in.nextLong();
-                if (lines.check(tx, ty) * lines.check(sx, sy) == -1) {
-                    Task4.Line l1 = new Task4.Line(tx, ty, lines.x1, lines.y1);
-                    Task4.Line l2 = new Task4.Line(tx, ty, lines.x2, lines.y2);
-                    if (l1.check(sx, sy) * l2.check(sx, sy) == -1) {
+                if(lines.check(tx, ty) * lines.check(sx, sy) < 0) {
+                    Line l1 = new Line(tx, ty, lines.x1, lines.y1);
+                    Line l2 = new Line(tx, ty, lines.x2, lines.y2);
+                    if (l1.check(sx, sy) * l2.check(sx, sy) < 0) {
                         out.println("OK");
                     }
                     else {
                         out.println("SPY DETECTED");
                     }
-                } else out.println("SPY DETECTED");
+                }
+                else out.println("SPY DETECTED");
             }
         }
     }

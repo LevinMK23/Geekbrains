@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7138c730-0cd9-41bc-9aae-835663fe7cfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Olimp/Hack/HackACMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InfoTechQuest/simple/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Olimp/NTI/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Olimp/NTI/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,22 +23,23 @@
     <session id="-403487135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.36" value="2" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.46" value="2" />
+          <entry key="project.open.time.46" value="3" />
+          <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="0" value="8" />
-          <entry key="1" value="7" />
+          <entry key="0" value="9" />
+          <entry key="1" value="8" />
           <entry key="10" value="3" />
           <entry key="11" value="2" />
           <entry key="12" value="1" />
@@ -50,7 +50,7 @@
           <entry key="17" value="2" />
           <entry key="18" value="2" />
           <entry key="19" value="1" />
-          <entry key="2" value="6" />
+          <entry key="2" value="7" />
           <entry key="20" value="1" />
           <entry key="21" value="2" />
           <entry key="22" value="1" />
@@ -61,41 +61,41 @@
           <entry key="27" value="1" />
           <entry key="28" value="1" />
           <entry key="29" value="1" />
-          <entry key="3" value="5" />
+          <entry key="3" value="6" />
           <entry key="30" value="1" />
           <entry key="31" value="2" />
           <entry key="32" value="2" />
-          <entry key="4" value="5" />
+          <entry key="4" value="6" />
           <entry key="41" value="1" />
           <entry key="46" value="1" />
           <entry key="48" value="3" />
           <entry key="49" value="2" />
-          <entry key="5" value="5" />
-          <entry key="6" value="5" />
+          <entry key="5" value="6" />
+          <entry key="6" value="6" />
           <entry key="7" value="4" />
           <entry key="8" value="5" />
           <entry key="9" value="3" />
           <entry key="class" value="10" />
-          <entry key="clue" value="48" />
-          <entry key="java" value="74" />
+          <entry key="clue" value="71" />
+          <entry key="java" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="10" />
-          <entry key="JAVA" value="74" />
-          <entry key="PLAIN_TEXT" value="141" />
+          <entry key="JAVA" value="78" />
+          <entry key="PLAIN_TEXT" value="171" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="19221" />
+          <entry key="java" value="21910" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19221" />
+          <entry key="JAVA" value="21910" />
           <entry key="PLAIN_TEXT" value="23" />
         </counts>
       </usages-collector>
@@ -111,23 +111,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java">
+        <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="54" column="52" lean-forward="true" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="class#Line#0;class#Task4#0" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/simple/Task1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="532">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,8 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StringTest.java" />
-        <option value="$PROJECT_DIR$/src/Olimp/GCD/OrangeGirl.java" />
         <option value="$PROJECT_DIR$/src/Olimp/GCD/BigNod.java" />
         <option value="$PROJECT_DIR$/src/Olimp/GCD/SimpleGCD.java" />
         <option value="$PROJECT_DIR$/src/Olimp/GCD/SimpleNOK.java" />
@@ -200,7 +206,6 @@
         <option value="$PROJECT_DIR$/src/Olimp/BigInt/Mult.java" />
         <option value="$PROJECT_DIR$/src/Olimp/BigInt/TrueDivide.java" />
         <option value="$PROJECT_DIR$/src/Olimp/Bin.java" />
-        <option value="$PROJECT_DIR$/src/Olimp/NTI/Main.java" />
         <option value="$PROJECT_DIR$/src/Olimp/NTI/LittleBig.java" />
         <option value="$PROJECT_DIR$/src/Olimp/NTI/Mapa.java" />
         <option value="$PROJECT_DIR$/src/Olimp/NTI/WH.java" />
@@ -209,8 +214,11 @@
         <option value="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task2.java" />
         <option value="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task3.java" />
         <option value="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task5.java" />
-        <option value="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java" />
+        <option value="$PROJECT_DIR$/src/Olimp/NTI/BigQueue.java" />
+        <option value="$PROJECT_DIR$/src/Olimp/NTI/Main.java" />
         <option value="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java" />
+        <option value="$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java" />
+        <option value="$PROJECT_DIR$/src/InfoTechQuest/simple/Task1.java" />
       </list>
     </option>
   </component>
@@ -221,10 +229,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="235" />
-    <option name="y" value="71" />
-    <option name="width" value="1321" />
-    <option name="height" value="923" />
+    <option name="x" value="89" />
+    <option name="y" value="140" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -270,13 +278,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="InfoTechQuest" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
+              <item name="simple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Olimp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Olimp" type="462c0819:PsiDirectoryNode" />
+              <item name="NTI" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -288,7 +308,8 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540596973261" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541176084276" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -308,13 +329,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InfoTechQuest.Geometry.Task2" />
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="BigQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Olimp.NTI.BigQueue" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InfoTechQuest.Geometry.*" />
+          <option name="PATTERN" value="Olimp.NTI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,12 +343,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InfoTechQuest.Geometry.Task3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Olimp.NTI.Main" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InfoTechQuest.Geometry.*" />
+          <option name="PATTERN" value="Olimp.NTI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InfoTechQuest.simple.Task1" />
+      <module name="Geekbrains" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InfoTechQuest.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,19 +371,6 @@
     </configuration>
     <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InfoTechQuest.Geometry.Task4" />
-      <module name="Geekbrains" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InfoTechQuest.Geometry.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InfoTechQuest.Geometry.Task5" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
@@ -375,19 +396,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task2" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Task3" />
-      <item itemvalue="Application.Task5" />
       <item itemvalue="Application.Task4" />
+      <item itemvalue="Application.BigQueue" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Task1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BigQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +430,11 @@
       <workItem from="1539937791694" duration="13000" />
       <workItem from="1540324648776" duration="15550000" />
       <workItem from="1540492444306" duration="12061000" />
-      <workItem from="1540576047588" duration="11813000" />
+      <workItem from="1540576047588" duration="12083000" />
+      <workItem from="1540671159705" duration="466000" />
+      <workItem from="1540755700886" duration="10615000" />
+      <workItem from="1540840020818" duration="1432000" />
+      <workItem from="1541175522990" duration="556000" />
     </task>
     <task id="LOCAL-00001" summary="Integer and Sort">
       <created>1540327433524</created>
@@ -432,11 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540503256007</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Integer and Sort">
+      <created>1540597181216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540597181216</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105946000" />
+    <option name="totallyTimeSpent" value="119285000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -451,18 +483,18 @@
     <frame x="0" y="27" width="1680" height="1023" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6079078" visible="true" weight="0.14687882" />
-      <window_info id="Structure" order="1" sideWeight="0.39209226" side_tool="true" weight="0.14687882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6039489" visible="true" weight="0.17380661" />
+      <window_info id="Structure" order="1" sideWeight="0.3960511" side_tool="true" visible="true" weight="0.17380661" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" sideWeight="0.5017182" side_tool="true" weight="0.14687882" />
+      <window_info id="Favorites" order="7" sideWeight="0.3934142" side_tool="true" weight="0.1505508" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2950058" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.398374" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329849" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39488965" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
@@ -508,168 +540,14 @@
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>38</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java</url>
-          <line>21</line>
-          <properties class="InfoTechQuest.Geometry.Test.Line" method="check">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/4">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/5">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/6">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/7">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/8">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/9">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/0.clue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task3/0">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="53" column="5" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="13" column="91" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="91" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -726,6 +604,29 @@
     <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/7">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/8">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/14">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Olimp/NTI/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/0">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -771,9 +672,6 @@
     <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/7.clue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/8">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/8.clue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -789,7 +687,7 @@
     <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/12.clue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/14">
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/13.clue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/14.clue">
@@ -801,24 +699,45 @@
     <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/16.clue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/17.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/18.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/19.clue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task4.java">
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/20.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/21.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/test/task4/22.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="54" column="52" lean-forward="true" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#Line#0;class#Task4#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/Geometry/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/InfoTechQuest/simple/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="532">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
