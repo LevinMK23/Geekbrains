@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Geekbrains:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Geekbrains_jar</output-path>
+    <root id="archive" name="Geekbrains.jar">
+      <element id="module-output" name="Geekbrains" />
+    </root>
+  </artifact>
+</component>
