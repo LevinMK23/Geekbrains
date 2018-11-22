@@ -2,11 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7138c730-0cd9-41bc-9aae-835663fe7cfe" name="Default Changelist" comment="Integer and Sort">
-      <change afterPath="$PROJECT_DIR$/src/Olimp/NTI/LittleBig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Olimp/NTI/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Olimp/BigInt/MulDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Olimp/municipal/G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleTaskC/Chars/BitCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleTaskC/Chars/BitReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleTaskC/Chars/KSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleTaskC/Chars/MinNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleTaskC/Chars/ThreeCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/olimp_vas/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/olimp_vas/Pif.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/StringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/GCD/BigNod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/GCD/BigNod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/GCD/OrangeGirl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/GCD/OrangeGirl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/GCD/SimpleGCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/GCD/SimpleGCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/GCD/SimpleNOK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/GCD/SimpleNOK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/Beauty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/Beauty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/Factorials.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/Factorials.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/Fib3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/Fib3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/FibCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/FibCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/FibN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/FibN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/Friendly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/Friendly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/Smith.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/IntegerDigits/Smith.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/AllPrimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/AllPrimes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/Chebishev.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/Chebishev.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/Genetic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/Genetic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/Goldbah.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/Goldbah.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/Multiplies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/Multiplies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/PrimeWeights.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/IntegerAlg/prime/PrimeWeights.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/Bubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/Bubble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/Chose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/Chose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/Lexik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/Lexik.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/SortChose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/SortChose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/TimeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/TimeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/Wedding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekbrains/Olimp/sort/sort1/Wedding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Olimp/BigInt/ChangeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Olimp/BigInt/ChangeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Olimp/NTI/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,37 +53,33 @@
     <session id="-403487135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.40" value="1" />
-          <entry key="project.open.time.46" value="2" />
+          <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="55" />
+          <entry key="java" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="55" />
+          <entry key="JAVA" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="14562" />
+          <entry key="java" value="13446" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14562" />
+          <entry key="JAVA" value="13446" />
           <entry key="PLAIN_TEXT" value="23" />
         </counts>
       </usages-collector>
@@ -58,26 +88,57 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="370701051">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="10" value="1" />
+          <entry key="11" value="1" />
+          <entry key="3" value="1" />
+          <entry key="35" value="1" />
+          <entry key="38" value="1" />
+          <entry key="49" value="1" />
+          <entry key="9" value="1" />
+          <entry key="clue" value="7" />
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="PLAIN_TEXT" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="831" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="831" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Olimp/NTI/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Olimp/NTI/LittleBig.java">
+        <entry file="file://$PROJECT_DIR$/src/Olimp/municipal/G.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="23">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,9 +205,11 @@
         <option value="$PROJECT_DIR$/src/Olimp/BigInt/Pow2.java" />
         <option value="$PROJECT_DIR$/src/Olimp/BigInt/Mult.java" />
         <option value="$PROJECT_DIR$/src/Olimp/BigInt/TrueDivide.java" />
-        <option value="$PROJECT_DIR$/src/Olimp/Bin.java" />
+        <option value="$PROJECT_DIR$/src/Olimp/BigInt/MulDigits.java" />
         <option value="$PROJECT_DIR$/src/Olimp/NTI/Main.java" />
-        <option value="$PROJECT_DIR$/src/Olimp/NTI/LittleBig.java" />
+        <option value="$PROJECT_DIR$/src/olimp_vas/Main.java" />
+        <option value="$PROJECT_DIR$/src/olimp_vas/Pif.java" />
+        <option value="$PROJECT_DIR$/src/Olimp/municipal/G.java" />
       </list>
     </option>
   </component>
@@ -156,11 +219,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="235" />
-    <option name="y" value="71" />
-    <option name="width" value="1321" />
-    <option name="height" value="923" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1360" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,8 +230,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,30 +248,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Olimp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Olimp" type="462c0819:PsiDirectoryNode" />
-              <item name="NTI" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540327379022" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542895816945" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -225,13 +277,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LittleBig">
-    <configuration name="Bin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Olimp.Bin" />
+  <component name="RunManager" selected="Application.G">
+    <configuration name="G" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Olimp.municipal.G" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Olimp.*" />
+          <option name="PATTERN" value="Olimp.municipal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LittleBig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Olimp.NTI.LittleBig" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="olimp_vas.Main" />
       <module name="Geekbrains" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Olimp.NTI.*" />
+          <option name="PATTERN" value="olimp_vas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,14 +347,14 @@
       <item itemvalue="Application.Mult" />
       <item itemvalue="Application.TrueDivide" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Bin" />
-      <item itemvalue="Application.LittleBig" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.G" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LittleBig" />
+        <item itemvalue="Application.G" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Bin" />
         <item itemvalue="Application.TrueDivide" />
         <item itemvalue="Application.Mult" />
       </list>
@@ -321,29 +373,19 @@
       <workItem from="1537119787319" duration="39051000" />
       <workItem from="1537392899128" duration="20324000" />
       <workItem from="1537607935694" duration="1639000" />
-      <workItem from="1539893093152" duration="63000" />
-      <workItem from="1539908099725" duration="23000" />
-      <workItem from="1539937791694" duration="13000" />
-      <workItem from="1540324648776" duration="2555000" />
+      <workItem from="1540368333374" duration="2967000" />
+      <workItem from="1542895299585" duration="634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69077000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="64615000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1680" height="1023" extended-state="6" />
+    <frame x="0" y="23" width="2560" height="1360" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16891065" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.200556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -353,16 +395,16 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3786295" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20662461" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39950982" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32965687" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32868758" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32886437" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -379,10 +421,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Сортировка структур.&#10;Формирование отчета по школам и по классам с сортировкой учеников по среднему баллу." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сортировка структур.&#10;Формирование отчета по школам и по классам с сортировкой учеников по среднему баллу." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -403,70 +441,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/StringTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/GCD/OrangeGirl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/GCD/BigNod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/GCD/SimpleNOK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/Factorials.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/prime/Genetic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/prime/Goldbah.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/prime/Multiplies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/prime/PrimeWeights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/Smith.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-669">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Olimp/IntegerAlg/IntegerDigits/FibN.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -551,20 +525,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/NumberFormatException.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Integer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="198" selection-start-line="198" selection-end-line="198" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/NumberFormatException.class" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Integer.class" />
     <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/WorkTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1176">
@@ -652,10 +614,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/math/BigDecimal.class">
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/math/BigDecimal.class" />
+    <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/TwoStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="726" selection-start-line="726" selection-end-line="726" />
+        <state relative-caret-position="345">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -682,87 +645,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/TrueDivide.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" selection-start-line="2" selection-end-line="43" />
+        <state relative-caret-position="645">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/StructSort/School.java">
+    <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/MulDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="14" />
+        <state relative-caret-position="210">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/BigInt/TwoStrings.java">
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/1.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/2.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/3.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/35">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/38">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Olimp/NTI/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/49.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/49">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/9.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/9">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/10">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/10.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/11">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/circle/11.clue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/olimp_vas/Pif.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        <state relative-caret-position="405">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/StructSort/data.txt">
+    <entry file="file://$PROJECT_DIR$/src/olimp_vas/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="53" selection-end-line="29" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/StructSort/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/Task.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/StructSort/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="210">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="76" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/Bin.java">
+    <entry file="file://$PROJECT_DIR$/src/Olimp/municipal/G.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/sort/sort1/StructSort/Pupil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/NTI/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Olimp/NTI/LittleBig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="23">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -772,80 +733,9 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Geekbrains</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

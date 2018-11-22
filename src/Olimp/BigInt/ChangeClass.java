@@ -24,7 +24,6 @@ public class ChangeClass {
             a *= 10;
             pos++;
             if(a == 0) {
-                pe = 0;
                 break;
             }
             if(map.containsKey(a)){
